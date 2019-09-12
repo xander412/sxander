@@ -2,7 +2,7 @@
 Xander Poker Game
 #Installation
 Step1:Extract the zip file
-Step2:Open the extracted folder,then go into Joker_Installation folder and then open the terminal there.
+Step2:Open the extracted folder, go into Joker3_Installation folder and then open the terminal here.
 Step3:Run the command "sudo bash" and enter the password
 Step4:Run the command "python3 installation.py" if you have a normal internet connection.
 Step5:Run the command "python3 proxy_installation.py" if you have a squid or any other proxy server in the network.
