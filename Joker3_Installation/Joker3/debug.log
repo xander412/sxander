@@ -1,0 +1,59 @@
+Trash created successfully [] and length is 0
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Deck_Creator>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Creating the total Deck
+['2h', '2c', '2s', '2d', '3h', '3c', '3s', '3d', '4h', '4c', '4s', '4d', '5h', '5c', '5s', '5d', '6h', '6c', '6s', '6d', '7h', '7c', '7s', '7d', '8h', '8c', '8s', '8d', '9h', '9c', '9s', '9d', '10h', '10c', '10s', '10d']
+:Length36
+Full Deck
+['2h', '2c', '2s', '2d', '3h', '3c', '3s', '3d', '4h', '4c', '4s', '4d', '5h', '5c', '5s', '5d', '6h', '6c', '6s', '6d', '7h', '7c', '7s', '7d', '8h', '8c', '8s', '8d', '9h', '9c', '9s', '9d', '10h', '10c', '10s', '10d', 'kh', 'kc', 'ks', 'kd', 'qh', 'qc', 'qs', 'qd', 'jh', 'jc', 'js', 'jd', 'ah', 'ac', 'as', 'ad', 'Joker']
+:Length:53
+Shuffled Deck ['7s', '3c', '6s', '7h', 'qc', '10c', '2s', '5d', 'ad', 'jh', 'qd', '2c', 'kc', 'ks', '3d', '9h', '3s', '7c', '6h', 'js', '10s', '5c', 'qs', '6c', 'ac', '5h', '10d', '2d', '4h', 'ah', '2h', '9s', '10h', 'as', '8d', '4d', '8s', 'kh', 'jd', '8c', 'jc', '9c', 'kd', '5s', 'Joker', '9d', '4c', 'qh', '6d', '7d', '4s', '8h', '3h']
+Length53
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<End Deck Creator>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[Deck Divider]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+Created the two lists p1_deck and p2_deck
+P1card:7s
+P2card:3c
+P1card:6s
+P2card:7h
+P1card:qc
+P2card:10c
+P1card:2s
+P2card:5d
+P1card:ad
+P2card:jh
+P1card:qd
+P2card:2c
+P1card:kc
+P2card:ks
+P1card:3d
+P2card:9h
+P1card:3s
+P2card:7c
+P1card:6h
+P2card:js
+P1card:10s
+P2card:5c
+P1card:qs
+P2card:6c
+P1card:ac
+P2card:5h
+P1 Deck:['7s', '6s', 'qc', '2s', 'ad', 'qd', 'kc', '3d', '3s', '6h', '10s', 'qs', 'ac']
+Length:13
+P2deck:['3c', '7h', '10c', '5d', 'jh', '2c', 'ks', '9h', '7c', 'js', '5c', '6c', '5h']
+Length:13
+Rest of the Deck:['10d', '2d', '4h', 'ah', '2h', '9s', '10h', 'as', '8d', '4d', '8s', 'kh', 'jd', '8c', 'jc', '9c', 'kd', '5s', 'Joker', '9d', '4c', 'qh', '6d', '7d', '4s', '8h', '3h']
+Length:27
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[End of Deck divider]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{P2 Deck Encrypter}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+P2 deck encrypted.3c 7h 10c 5d jh 2c ks 9h 7c js 5c 6c 5h 
+{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{P2 Deck Encrpyter}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+++++++++++++++++++++++++++++++++++++++++++++++++++Joker Picker++++++++++++++++++++++++++++++++++++++++++++++++++
+Joker card is 10d
+After popping the joker deck is ['2d', '4h', 'ah', '2h', '9s', '10h', 'as', '8d', '4d', '8s', 'kh', 'jd', '8c', 'jc', '9c', 'kd', '5s', 'Joker', '9d', '4c', 'qh', '6d', '7d', '4s', '8h', '3h']
+Length:26
+++++++++++++++++++++++++++++++++++++++++++++++++++Joker Picker End++++++++++++++++++++++++++++++++++++++++++++++++++
+Window is created now.
+Background images created and converted to photoimages.
+**************************************************Started GUI**************************************************
+Ip is taken successfully IP = 10.42.0.1
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Socket Method<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
